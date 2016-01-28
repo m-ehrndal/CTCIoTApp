@@ -1,2 +1,2 @@
 # CTCIoTApp
-Public, downloadable app for CTCIoT material
+Public, downloadable app for CTCIoT
